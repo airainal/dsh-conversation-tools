@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Conversation Tools">
+  <rect width="48" height="48" rx="12" fill="#2F6FEB"/>
+  <path d="M12 16.5A4.5 4.5 0 0 1 16.5 12h15a4.5 4.5 0 0 1 4.5 4.5v10a4.5 4.5 0 0 1-4.5 4.5H22.4l-6.9 5.4a1 1 0 0 1-1.6-.8v-4.8A4.5 4.5 0 0 1 12 26.6z" fill="#FFFFFF"/>
+  <path d="M19 20.5h10M19 25.5h6.5" stroke="#2F6FEB" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

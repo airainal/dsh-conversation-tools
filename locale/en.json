@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Conversation Tools",
+    "description": "Adds a right-click menu to file links that reveals them in the file manager or opens them in the default application, an edit button on sent messages, and a manual context-compaction button beside the context meter."
+  }
+}
