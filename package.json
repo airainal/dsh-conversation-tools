@@ -4,6 +4,26 @@
   "private": true,
   "type": "module",
   "description": "Conversation tools: reveal file links in the file manager from a context menu, edit a sent user message in the composer, and compact the session context from a button beside the context meter",
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "conversation",
+    "ui"
+  ],
+  "author": "airainal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airainal/dsh-conversation-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/airainal/dsh-conversation-tools/issues"
+  },
+  "homepage": "https://github.com/airainal/dsh-conversation-tools#readme",
+  "engines": {
+    "dsh": "^0.2.1-rc.1"
+  },
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
@@ -15,7 +35,10 @@
     "client.js",
     "cordis.patch.yml",
     "locale/*.json",
-    "icon.svg"
+    "icon.svg",
+    "assets/icon-180.png",
+    "README.md",
+    "LICENSE"
   ],
   "dsh": {
     "bundle": {
